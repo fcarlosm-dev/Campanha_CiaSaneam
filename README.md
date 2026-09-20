@@ -1,7 +1,6 @@
 # 💧 Sistema de Classificação de Consumo de Água
 
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
-![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-yellow?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Energia](https://img.shields.io/badge/Sustentabilidade-%C3%81gua-00A3E0?style=for-the-badge&logo=water&logoColor=white)
 ![Saneamento](https://img.shields.io/badge/Campanha_CiaSaneam-009688?style=for-the-badge)
@@ -20,10 +19,10 @@ que classificam o consumo e sugere ações de economia e uso sustentável.
 
 ## 🎯 Objetivo
 
-🏢 Identificar o tipo de imóvel 
-📊 Classificar o perfil de consumo mensal de água.
-🔔 Emitir **alertas educativos** com orientações.
-🌱 Incentivar o uso consciente da água e a detecção de vazamentos, caso seja identificado alto consumo.
+- 🏢 Identificar o tipo de imóvel 
+- 📊 Classificar o perfil de consumo mensal de água.
+- 🔔 Emitir **alertas educativos** com orientações.
+- 🌱 Incentivar o uso consciente da água e a detecção de vazamentos, caso seja identificado alto consumo.
 
 ---
 
@@ -52,3 +51,8 @@ cd Campanha_CiaSaneam
 
 # 3. Execute o programa
 python FlavioMartins_Ag7_DS_I.py
+
+---
+
+Se este projeto é útil para voce e faz sentido, deixe sua ⭐ no repositório! Obrigado.
+
