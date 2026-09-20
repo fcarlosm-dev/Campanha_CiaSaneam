@@ -54,5 +54,24 @@ python FlavioMartins_Ag7_DS_I.py
 
 ---
 
-Se este projeto é útil para voce e faz sentido, deixe sua ⭐ no repositório! Obrigado.
+## 📁 Estrutura do Projeto
+
+```text
+Sist_Desc_Progressivo/
+│
+├── Campanha_CiaSaneam.py      # Código-fonte principal
+├── README.md                  # Documentação do projeto
+                  
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Flavio Martins**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Seu%20Perfil-181717?style=for-the-badge&logo=github)](https://github.com/fcarlosm-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seu%20Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/flaviocarlosmartins)
+
+---
+
+  Se este projeto é útil para voce e faz sentido, deixe sua ⭐ no repositório! Obrigado.
 
